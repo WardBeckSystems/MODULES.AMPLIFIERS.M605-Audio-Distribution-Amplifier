@@ -61,7 +61,7 @@ WbspsCA
 
 ```json
 {
- "file": "Modules/AMPLIFIERS/M605/PHOTOS/wbsps - promo - m605 da - 002.jpg",
+ "file": "Modules/AMPLIFIERS/M605/MANUALS/wbsps - promo - m605 da - 002.jpg",
  "sha256": "bf6b05db4ccf261b52f1be40a8e9615f13fbec8ef924a0bfc6812adfa6227544",
  "kind": "module",
  "models": [

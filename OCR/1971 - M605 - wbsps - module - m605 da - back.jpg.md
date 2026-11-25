@@ -57,7 +57,7 @@ WBS
 
 ```json
 {
- "file": "Modules/AMPLIFIERS/M605/PHOTOS/1971 - M605 - wbsps - module - m605 da - back.jpg",
+ "file": "Modules/AMPLIFIERS/M605/MANUALS/1971 - M605 - wbsps - module - m605 da - back.jpg",
  "sha256": "b94a9ed15c3515694db5a7f51ff6abf6f992ebd17e8f46ea5b60cd4a29ccbded",
  "kind": "module",
  "models": [

@@ -59,7 +59,7 @@ The madust sIze 0f 7W X 4H X 13.7D inches allows M605 amplifiers be accommodated
 
 ```json
 {
- "file": "Modules/AMPLIFIERS/M605/PHOTOS/1971 - M605 - wbsps - module - m605 da - front.jpg",
+ "file": "Modules/AMPLIFIERS/M605/MANUALS/1971 - M605 - wbsps - module - m605 da - front.jpg",
  "sha256": "cb7101c1f1973d9927d351905c5ea563ce28a7b6f826bbae699bbf864a38e1b3",
  "kind": "module",
  "models": [

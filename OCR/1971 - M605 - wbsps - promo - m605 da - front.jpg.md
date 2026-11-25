@@ -41,7 +41,7 @@ Trim
 
 ```json
 {
- "file": "Modules/AMPLIFIERS/M605/PHOTOS/1971 - M605 - wbsps - promo - m605 da - front.jpg",
+ "file": "Modules/AMPLIFIERS/M605/MANUALS/1971 - M605 - wbsps - promo - m605 da - front.jpg",
  "sha256": "7a84925880647130cc8d16b97be9d5cc1a65500419109424cb3f3206782102db",
  "kind": "module",
  "models": [

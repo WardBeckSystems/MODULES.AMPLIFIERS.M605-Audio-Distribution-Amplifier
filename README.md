@@ -4,13 +4,13 @@ Ward-Beck Systems M605, 1971|4. Wiki page: [M605 on WBSps.ca](https://wardbecksy
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 44 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 0 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 2 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 5 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 10 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 0 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 7 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 45 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 1 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 3 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 12 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 5 |
+| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 8 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 26 |
 
 ## Photos
@@ -18,13 +18,10 @@ Ward-Beck Systems M605, 1971|4. Wiki page: [M605 on WBSps.ca](https://wardbecksy
 _Photographs of the module itself: front, back, inside, racked._
 
 <table>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKN3RjVzNVRE1SMVE/view?resourcekey=0-Cb1pzyepvNKNJfHSW_qKIw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKN3RjVzNVRE1SMVE&resourcekey=0-Cb1pzyepvNKNJfHSW_qKIw" width="240" alt="1971 - M605 - wbsps - promo - m605 da - 003.jpg"></a><br><sub>1971|4 · wbsps - promo - m605 da - 003</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKd1BFNnQ1VG92NEE/view?resourcekey=0-PNV6Q90dYw88UdMExQH61w" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKd1BFNnQ1VG92NEE&resourcekey=0-PNV6Q90dYw88UdMExQH61w" width="240" alt="1971 - M605 - wbsps - promo - m605 da - 004.jpg"></a><br><sub>1971|4 · wbsps - promo - m605 da - 004</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKTXcwdmJ2Qnh0d2c/view?resourcekey=0-78rsGhD5AVA4KDHazyH0Xg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKTXcwdmJ2Qnh0d2c&resourcekey=0-78rsGhD5AVA4KDHazyH0Xg" width="240" alt="1971 - M605 - wbsps - promo - m605 da - back.jpg"></a><br><sub>1971|4 · wbsps - promo - m605 da - back</sub></td></tr>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKQnlWNzlGR1JsdTA/view?resourcekey=0-yFkrH29dA_NeITchHeE7dQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKQnlWNzlGR1JsdTA&resourcekey=0-yFkrH29dA_NeITchHeE7dQ" width="240" alt="1971 - M605 - wbsps - promo - m605 da - front.jpg"></a><br><sub>1971|4 · wbsps - promo - m605 da - front</sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKN3RjVzNVRE1SMVE/view?resourcekey=0-Cb1pzyepvNKNJfHSW_qKIw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKN3RjVzNVRE1SMVE&resourcekey=0-Cb1pzyepvNKNJfHSW_qKIw" width="240" alt="1971 - M605 - wbsps - promo - m605 da - 003.jpg"></a><br><sub>1971|4 · wbsps - promo - m605 da - 003</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKd1BFNnQ1VG92NEE/view?resourcekey=0-PNV6Q90dYw88UdMExQH61w" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKd1BFNnQ1VG92NEE&resourcekey=0-PNV6Q90dYw88UdMExQH61w" width="240" alt="1971 - M605 - wbsps - promo - m605 da - 004.jpg"></a><br><sub>1971|4 · wbsps - promo - m605 da - 004</sub></td></tr>
 </table>
 
-Shared privately on Google Drive (opens after sign-in): [1971|4 · wbsps - module - m605 da - back](https://drive.google.com/file/d/0B0yR0b5T78SKZ3ZIRlA5cGNPbjg/view?resourcekey=0-7rFRpq6FOC-GBskGzAgi9g) · [1971|4 · wbsps - module - m605 da - front](https://drive.google.com/file/d/0B0yR0b5T78SKUzZtSkUwcV9pUFk/view?resourcekey=0-iaYzJNzjDrjuX3cbAeHAJg) · [1971|4 · wbsps - promo - m605 da - back_small](https://drive.google.com/file/d/0B0yR0b5T78SKYjQxS1M4dVAtZ28/view?resourcekey=0-Pn-rH8JgbJb2SpwZg5XsMw) · [1971|4 · wbsps - promo - m605 da - front_small](https://drive.google.com/file/d/0B0yR0b5T78SKalM1S2l1Y0tIQVk/view?resourcekey=0-5Mb5da5VHnGmXeMhwnD3pg)
-
-Not on Google Drive yet: `19xx - M605 - M605.jpg`, `wbsps - promo - m605 da - 002.jpg`
+Shared privately on Google Drive (opens after sign-in): [1971|4 · wbsps - promo - m605 da - back_small](https://drive.google.com/file/d/0B0yR0b5T78SKYjQxS1M4dVAtZ28/view?resourcekey=0-Pn-rH8JgbJb2SpwZg5XsMw) · [1971|4 · wbsps - promo - m605 da - front_small](https://drive.google.com/file/d/0B0yR0b5T78SKalM1S2l1Y0tIQVk/view?resourcekey=0-5Mb5da5VHnGmXeMhwnD3pg)
 
 ## Schematics
 
@@ -42,9 +39,14 @@ Not on Google Drive yet: `1979 - 605-01-002 - AUDIO DISTRIBUTION AMPLIFIER FUNCT
 _Manuals and manual pages, price lists, RTO-144 connection sheets, brochures, ads and other document scans._
 
 <table>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B9I0nu1MPkm6Z2lLNEZYQ3ZoUDQ/view?resourcekey=0-5DX4cvFxAiR-D4EmHB4zQg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B9I0nu1MPkm6Z2lLNEZYQ3ZoUDQ&resourcekey=0-5DX4cvFxAiR-D4EmHB4zQg" width="240" alt="1975 - M605 - PRICE LIST - PRICE LIST.jpg"></a><br><sub>1975|8 · PRICE LIST - PRICE LIST</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKSEwzdkNydVhib2M/view?resourcekey=0-hxZh85g48i2x-0bWlSuTXQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKSEwzdkNydVhib2M&resourcekey=0-hxZh85g48i2x-0bWlSuTXQ" width="240" alt="19xx - M605 - AD - wbsps - ad - 600 series.jpg"></a><br><sub>19xx - M605 - AD - wbsps - ad - 600 series</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKZkNNdlpPcmU0LWM/view?resourcekey=0-E_vjEZWmjI4zXD8QpocRHw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKZkNNdlpPcmU0LWM&resourcekey=0-E_vjEZWmjI4zXD8QpocRHw" width="240" alt="19xx - M605 - DOC - L2042 - P05.jpg"></a><br><sub>19xx - M605 - DOC - L2042 - P05</sub></td></tr>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKTUh0YVhIN2hjclE/view?resourcekey=0-5BbrKsqSG2dcdybh1CqyLg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKTUh0YVhIN2hjclE&resourcekey=0-5BbrKsqSG2dcdybh1CqyLg" width="240" alt="19xx - M605 - DOC - L3242 - P05.jpg"></a><br><sub>19xx - M605 - DOC - L3242 - P05</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKZTRYVWlmZnpua2M/view?resourcekey=0-YxmiFp5fahfZOKhUHzhHoQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKZTRYVWlmZnpua2M&resourcekey=0-YxmiFp5fahfZOKhUHzhHoQ" width="240" alt="19xx - M605 - DOC - US Sales Brochure pg 10.jpg"></a><br><sub>19xx - M605 - DOC - US Sales Brochure pg 10</sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKTXcwdmJ2Qnh0d2c/view?resourcekey=0-78rsGhD5AVA4KDHazyH0Xg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKTXcwdmJ2Qnh0d2c&resourcekey=0-78rsGhD5AVA4KDHazyH0Xg" width="240" alt="1971 - M605 - wbsps - promo - m605 da - back.jpg"></a><br><sub>1971|4 · wbsps - promo - m605 da - back</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKQnlWNzlGR1JsdTA/view?resourcekey=0-yFkrH29dA_NeITchHeE7dQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKQnlWNzlGR1JsdTA&resourcekey=0-yFkrH29dA_NeITchHeE7dQ" width="240" alt="1971 - M605 - wbsps - promo - m605 da - front.jpg"></a><br><sub>1971|4 · wbsps - promo - m605 da - front</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B9I0nu1MPkm6Z2lLNEZYQ3ZoUDQ/view?resourcekey=0-5DX4cvFxAiR-D4EmHB4zQg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B9I0nu1MPkm6Z2lLNEZYQ3ZoUDQ&resourcekey=0-5DX4cvFxAiR-D4EmHB4zQg" width="240" alt="1975 - M605 - PRICE LIST - PRICE LIST.jpg"></a><br><sub>1975|8 · PRICE LIST - PRICE LIST</sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKSEwzdkNydVhib2M/view?resourcekey=0-hxZh85g48i2x-0bWlSuTXQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKSEwzdkNydVhib2M&resourcekey=0-hxZh85g48i2x-0bWlSuTXQ" width="240" alt="19xx - M605 - AD - wbsps - ad - 600 series.jpg"></a><br><sub>19xx - M605 - AD - wbsps - ad - 600 series</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKZkNNdlpPcmU0LWM/view?resourcekey=0-E_vjEZWmjI4zXD8QpocRHw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKZkNNdlpPcmU0LWM&resourcekey=0-E_vjEZWmjI4zXD8QpocRHw" width="240" alt="19xx - M605 - DOC - L2042 - P05.jpg"></a><br><sub>19xx - M605 - DOC - L2042 - P05</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKTUh0YVhIN2hjclE/view?resourcekey=0-5BbrKsqSG2dcdybh1CqyLg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKTUh0YVhIN2hjclE&resourcekey=0-5BbrKsqSG2dcdybh1CqyLg" width="240" alt="19xx - M605 - DOC - L3242 - P05.jpg"></a><br><sub>19xx - M605 - DOC - L3242 - P05</sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKZTRYVWlmZnpua2M/view?resourcekey=0-YxmiFp5fahfZOKhUHzhHoQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKZTRYVWlmZnpua2M&resourcekey=0-YxmiFp5fahfZOKhUHzhHoQ" width="240" alt="19xx - M605 - DOC - US Sales Brochure pg 10.jpg"></a><br><sub>19xx - M605 - DOC - US Sales Brochure pg 10</sub></td></tr>
 </table>
+
+Shared privately on Google Drive (opens after sign-in): [1971|4 · wbsps - module - m605 da - back](https://drive.google.com/file/d/0B0yR0b5T78SKZ3ZIRlA5cGNPbjg/view?resourcekey=0-7rFRpq6FOC-GBskGzAgi9g) · [1971|4 · wbsps - module - m605 da - front](https://drive.google.com/file/d/0B0yR0b5T78SKUzZtSkUwcV9pUFk/view?resourcekey=0-iaYzJNzjDrjuX3cbAeHAJg)
+
+Not on Google Drive yet: `19xx - M605 - M605.jpg`, `wbsps - promo - m605 da - 002.jpg`
 
 ## KiCad
 
@@ -57,6 +59,11 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [1979 - 605-02-003 - M605A AUDIO DISTRIBUTION AMPLIFIER SYSTEM WIRING SCHEMATIC - DRN GEB - ENG GEB - ISS 2.kicad_sch](KICAD/1979%20-%20605-02-003%20-%20M605A%20AUDIO%20DISTRIBUTION%20AMPLIFIER%20SYSTEM%20WIRING%20SCHEMATIC%20-%20DRN%20GEB%20-%20ENG%20GEB%20-%20ISS%202.kicad_sch)
 - [1985 - 605-02-006 - M605A AUDIO DISTRIBUTION AMPLIFIER UNBALANCED OPERATION INTERCONNECT D - DRN JP - ENG SCHUBERT - ISS 1.kicad_sch](KICAD/1985%20-%20605-02-006%20-%20M605A%20AUDIO%20DISTRIBUTION%20AMPLIFIER%20UNBALANCED%20OPERATION%20INTERCONNECT%20D%20-%20DRN%20JP%20-%20ENG%20SCHUBERT%20-%20ISS%201.kicad_sch)
 - [M605.kicad_sym](KICAD/M605.kicad_sym)
+- [index.html](KICAD/index.html)
+
+## Software
+
+- [index.html](SOFTWARE/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
