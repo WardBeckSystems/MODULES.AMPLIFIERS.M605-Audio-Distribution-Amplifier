@@ -1,0 +1,101 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M605/SCHEMATICS/19xx - 605-06-006 - M605A AUDIO DISTRIBUTION AMPLIFIER COMPONENT LAYOUT - DRN P. Mahoney - ISS 1.jpg",
+ "version": 1,
+ "trace": "_traces/a5023291b85ee506.svg",
+ "sheet": {
+  "number": "B 605-06-006",
+  "title": "M605A / AUDIO DISTRIBUTION AMPLIFIER / COMPONENT LAYOUT",
+  "dtype": "06",
+  "type": "component layout",
+  "size": "B",
+  "size_assumed": false,
+  "rotate": 0,
+  "px": [2000, 1294],
+  "mm": [431.8, 279.4],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [-0.1, -0.1, 431.8, 279.4],
+ "outlines": {
+  "line": {"rings": 637, "straight": {"n": 9686, "mm": 14731.2}, "curved": {"n": 1271, "mm": 1238.0}},
+  "text": {"rings": 274, "straight": {"n": 2124, "mm": 2283.9}, "curved": {"n": 693, "mm": 794.2}},
+  "tb": {"rings": 23, "straight": {"n": 201, "mm": 278.4}, "curved": {"n": 39, "mm": 45.6}}
+ },
+ "circles": [],
+ "boxes": [
+  {"mm": [327.3, 56.8, 393.6, 63.1], "w": 66.3, "h": 6.3, "from": "ring", "words": ["REVISION"], "in_title_block": true},
+  {"mm": [394.0, 57.0, 407.0, 63.0], "w": 13.0, "h": 6.0, "from": "ring", "words": ["APP"], "in_title_block": true},
+  {"mm": [313.7, 56.7, 326.7, 62.9], "w": 13.0, "h": 6.2, "from": "ring", "words": ["DATE"], "in_title_block": true},
+  {"mm": [266.6, 32.3, 299.5, 38.4], "w": 32.8, "h": 6.1, "from": "ring", "words": ["DRN P Matovey"], "in_title_block": true},
+  {"mm": [266.6, 25.6, 299.5, 32.0], "w": 32.8, "h": 6.4, "from": "ring", "words": ["ENG"], "in_title_block": true},
+  {"mm": [266.4, 19.4, 299.5, 25.3], "w": 33.1, "h": 5.8, "from": "ring", "in_title_block": true},
+  {"mm": [266.6, 13.0, 299.5, 18.8], "w": 32.8, "h": 5.8, "from": "ring", "words": ["APP"], "in_title_block": true}
+ ],
+ "text": {
+  "words": 38,
+  "lines": [
+   {"mm": [80.7, 250.4, 88.7, 254.8], "text": "RS"},
+   {"mm": [88.3, 241.8, 98.0, 246.1], "text": "R1z"},
+   {"mm": [95.9, 233.2, 107.7, 238.0], "text": "R2s"},
+   {"mm": [157.4, 229.9, 188.0, 234.7], "text": "PCB 8-116"},
+   {"mm": [109.2, 224.5, 120.0, 228.9], "text": "R41"},
+   {"mm": [194.5, 219.1, 206.0, 223.5], "text": "C28"},
+   {"mm": [197.5, 209.0, 209.2, 213.8], "text": "TP1"},
+   {"mm": [276.1, 198.2, 307.9, 202.5], "text": "PCB 8-117"},
+   {"mm": [309.0, 162.6, 323.6, 167.4], "text": "R2o1"},
+   {"mm": [323.0, 144.7, 337.0, 149.0], "text": "F2o1"},
+   {"mm": [49.4, 113.3, 82.3, 118.6], "text": "PCB 8-118"},
+   {"mm": [262.3, 102.6, 275.3, 116.0], "text": "wes"},
+   {"mm": [130.4, 103.2, 145.9, 108.0], "text": "T2o1"},
+   {"mm": [190.9, 92.8, 203.8, 97.6], "text": "Ds2"},
+   {"mm": [205.3, 82.7, 219.4, 88.0], "text": "Ds3"},
+   {"mm": [230.8, 71.9, 239.9, 76.2], "text": "Ds"},
+   {"mm": [300.3, 57.2, 325.8, 62.2], "text": "ISSUE DATE"},
+   {"mm": [351.1, 57.9, 370.5, 62.2], "text": "REVISION"},
+   {"mm": [396.4, 57.9, 405.0, 62.2], "text": "APP"},
+   {"mm": [275.9, 43.0, 401.8, 51.1], "text": "WBS WARD-BECK sysTEMS"},
+   {"mm": [267.5, 32.4, 297.7, 37.9], "text": "DRN P Matovey"},
+   {"mm": [342.8, 30.0, 363.4, 36.5], "text": "M6o5A"},
+   {"mm": [266.9, 26.6, 276.1, 31.4], "text": "ENG"},
+   {"mm": [310.0, 22.7, 328.0, 27.9], "text": "AUDIO"},
+   {"mm": [332.1, 22.5, 397.0, 28.9], "text": "DISTRIBUTION AMPLIFIER"},
+   {"mm": [323.4, 15.1, 358.0, 20.4], "text": "COMPONENT"},
+   {"mm": [362.3, 14.9, 383.9, 21.4], "text": "LAYOUT"},
+   {"mm": [267.9, 13.6, 276.6, 17.9], "text": "APP"},
+   {"mm": [276.1, 7.6, 289.5, 11.9], "text": "SCALE"},
+   {"mm": [328.2, 3.0, 366.0, 9.5], "text": "605-06-006"},
+   {"mm": [387.3, 7.6, 400.3, 12.4], "text": "ISSUE"}
+  ],
+  "scale": null
+ },
+ "title_block": {
+  "mm": [258.3, 2.0, 413.7, 67.7],
+  "from": "title-block words (training set)",
+  "text": [
+   "ISSUE DATE",
+   "REVISION",
+   "APP",
+   "WBS WARD-BECK sysTEMS",
+   "DRN P Matovey",
+   "M6o5A",
+   "ENG",
+   "AUDIO",
+   "DISTRIBUTION AMPLIFIER",
+   "COMPONENT",
+   "LAYOUT",
+   "APP",
+   "SCALE",
+   "605-06-006",
+   "ISSUE"
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** component layout B 605-06-006, size B 432 × 279 mm, 2000 × 1294 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–432 mm across, 0–279 mm up",
+  "- **Outlines:** line 637 rings, 9,686 straight (14,731 mm) / 1,271 curved (1,238 mm); text 274 rings, 2,124 straight (2,284 mm) / 693 curved (794 mm); tb 23 rings, 201 straight (278 mm) / 39 curved (45.6 mm)",
+  "- **Closed boxes:** 7 (7 in the title block)",
+  "- **Words (OCR):** 38 in 31 lines: RS · R1z · R2s · PCB 8-116 · R41 · C28 · TP1 · PCB 8-117 · R2o1 · F2o1 · PCB 8-118 · wes",
+  "- **Title block:** (258, 2)–(414, 68) mm: ISSUE DATE · REVISION · APP · WBS WARD-BECK sysTEMS · DRN P Matovey · M6o5A · ENG · AUDIO · DISTRIBUTION AMPLIFIER · COMPONENT · LAYOUT · APP · SCALE · 605-06-006 · ISSUE"
+ ]
+}
