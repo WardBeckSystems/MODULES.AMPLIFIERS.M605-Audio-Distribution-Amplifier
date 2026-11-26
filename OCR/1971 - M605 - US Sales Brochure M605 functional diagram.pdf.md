@@ -26,7 +26,7 @@ Wiki page: [M605](../../../../PAGES/M605.md)
 - **Title block:** (280, 2)–(432, 68) mm: ISSUE DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · DRN,INCE · 73.2 · M6osA · ENG · AUDIO DISTRIBUTION AMPLIFIER · CKD · FUNCTIONAL DIAGRAM · APP · SCALE · 605-01-002 · ISSUE
 - **Wiring (first pass):** 59 connected wire groups from 128 runs; labelled ends: 237 mm → (-6 dB ), OUT, /+18 dB, (-6 dB); 87 mm → VAC; 55 mm → OUT, PRE; 52 mm → (-6 dB), (-6dB); 47 mm → PRE, 10 To +14 dBm
 
-Every curve, box, word and wire group: [1971 - M605 - US Sales Brochure M605 functional diagram p1 (traced).json](../SCHEMATICS/1971%20-%20M605%20-%20US%20Sales%20Brochure%20M605%20functional%20diagram%20p1%20(traced).json) (the CAD file: `1971 - M605 - US Sales Brochure M605 functional diagram p1 (traced).dxf`).
+Every curve, box, word and wire group: [1971 - M605 - US Sales Brochure M605 functional diagram p1 (traced).json](../SCHEMATICS/1971%20-%20M605%20-%20US%20Sales%20Brochure%20M605%20functional%20diagram%20p1%20%28traced%29.json) (the CAD file: `1971 - M605 - US Sales Brochure M605 functional diagram p1 (traced).dxf`).
 
 ## Full text
 
