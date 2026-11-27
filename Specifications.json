@@ -1,0 +1,126 @@
+{
+ "module": "M605",
+ "title": "",
+ "source": {
+  "file": "MANUALS/19xx - M605 - M605.jpg",
+  "page": 1
+ },
+ "ocr_quality": 0.95,
+ "read": "OCR of the technical data sheet; usual OCR slips put right, the rest as read: check against the page",
+ "specifications": [
+  {
+   "name": "Gain",
+   "key": "gain",
+   "text": "Unity (* 3db adjust) FREQUENCY RESPONSE +0.25db 20hz to 20Khz NOISE ~75 dbm absolute output noise TOTAL HARMONIC DISTORTION Less than 0.25% from 2Ohz to 20Khz (measured at +18dbm output level with 8 simultaneous split outputs) SOURCE IMPEDANCE 600 ohms or less balanced or unbalanced",
+   "quantities": [
+    {
+     "value": 3,
+     "unit": "db"
+    },
+    {
+     "value": 0.25,
+     "unit": "db"
+    },
+    {
+     "value": 20,
+     "unit": "hz"
+    },
+    {
+     "value": 20,
+     "unit": "Khz"
+    },
+    {
+     "value": 75,
+     "unit": "dbm"
+    },
+    {
+     "value": 0.25,
+     "unit": "%"
+    },
+    {
+     "value": 20,
+     "unit": "Khz"
+    },
+    {
+     "value": 18,
+     "unit": "dbm"
+    },
+    {
+     "value": 600,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Output impedance",
+   "key": "output_impedance",
+   "text": "ohms resistive OUTPUT LEVEL +8dbm nominal, +24dbm max after 5 splits, +22dbm max after 8 splits OUTPUT ISOLATION Greater than 7Odb, 2Ohz to 20Khz PHASING The low terminal number of the input pair and the low terminal number of the output pair are in phase. POWER REQUIREMENTS 105 to 125 volts ac 6Ohz, 1OVA AMBIENT TEMPERATURE 0 to 60 DIMENSIONS 1.7W X 3.4H X 13.70 inches WEIGHT 3 Ibs net",
+   "quantities": [
+    {
+     "value": 8,
+     "unit": "dbm"
+    },
+    {
+     "value": 24,
+     "unit": "dbm"
+    },
+    {
+     "value": 22,
+     "unit": "dbm"
+    },
+    {
+     "value": 20,
+     "unit": "Khz"
+    },
+    {
+     "from": 105,
+     "to": 125,
+     "unit": "volts ac"
+    },
+    {
+     "value": 1.7,
+     "unit": "W"
+    },
+    {
+     "value": 13.7,
+     "unit": "inches"
+    }
+   ]
+  },
+  {
+   "name": "Input impedance",
+   "key": "input_impedance",
+   "text": "Greater than 40K ohms"
+  },
+  {
+   "name": "Input level",
+   "key": "input_level",
+   "text": "+8dbm nominal, +24dbm maximum LOAD IMPEDANCE 600 ohms balanced X 8",
+   "quantities": [
+    {
+     "value": 8,
+     "unit": "dbm"
+    },
+    {
+     "value": 24,
+     "unit": "dbm"
+    },
+    {
+     "value": 600,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Accessories",
+   "key": "accessories",
+   "text": "MF6 600 Series Mounting Frame. 19W x 3.5H x 14.5D (less rear cable tray and cover). Standard EIA rack mounting: Accommodates ten M605 modules or any combination of single, double or quadruple units not exceeding ten single width modules_ MFR6 600 Series Frame Receptacle_ One required per M605",
+   "quantities": [
+    {
+     "value": 19,
+     "unit": "W"
+    }
+   ]
+  }
+ ]
+}

@@ -13,6 +13,24 @@ Ward-Beck Systems M605, 1971|4. Wiki page: [M605 on WBSps.ca](https://wardbecksy
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 8 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 26 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+**On the WBSps forum (2006|39 - 2014|47):** [4 topics](FORUM.md): what owners and technicians said about it.
+
+## Specifications
+
+From the technical data sheet: [19xx - M605 - M605.jpg](MANUALS/19xx%20-%20M605%20-%20M605.jpg) page 1 (read by OCR; check against the page). As data: [`Specifications.json`](Specifications.json).
+
+| | |
+|---|---|
+| **Gain** | Unity (* 3db adjust) FREQUENCY RESPONSE +0.25db 20hz to 20Khz NOISE ~75 dbm absolute output noise TOTAL HARMONIC DISTORTION Less than 0.25% from 2Ohz to 20Khz (measured at +18dbm output level with 8 simultaneous split outputs) SOURCE IMPEDANCE 600 ohms or less balanced or unbalanced |
+| **Output impedance** | ohms resistive OUTPUT LEVEL +8dbm nominal, +24dbm max after 5 splits, +22dbm max after 8 splits OUTPUT ISOLATION Greater than 7Odb, 2Ohz to 20Khz PHASING The low terminal number of the input pair and the low terminal number of the output pair are in phase. POWER REQUIREMENTS 105 to 125 volts ac 6Ohz, 1OVA AMBIENT TEMPERATURE 0 to 60 DIMENSIONS 1.7W X 3.4H X 13.70 inches WEIGHT 3 Ibs net |
+| **Input impedance** | Greater than 40K ohms |
+| **Input level** | +8dbm nominal, +24dbm maximum LOAD IMPEDANCE 600 ohms balanced X 8 |
+| **Accessories** | MF6 600 Series Mounting Frame. 19W x 3.5H x 14.5D (less rear cable tray and cover). Standard EIA rack mounting: Accommodates ten M605 modules or any combination of single, double or quadruple units not exceeding ten single width modules_ MFR6 600 Series Frame Receptacle_ One required per M605 |
+
+<!-- /module data -->
+
 ## Photos
 
 _Photographs of the module itself: front, back, inside, racked._
