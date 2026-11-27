@@ -1,17 +1,17 @@
-# M605 · Amplifiers
+# M605 Audio Distribution Amplifier · Amplifiers
 
 Ward-Beck Systems M605, 1971|4. Wiki page: [M605 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M605.html)
 
 | Folder | What is in it | Files |
 |---|---|---|
 | [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 45 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 1 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 2 |
 | [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 3 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 12 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 5 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 11 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 4 |
 | [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 8 |
-| [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 26 |
+| [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 24 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
 
@@ -39,7 +39,7 @@ _Photographs of the module itself: front, back, inside, racked._
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKN3RjVzNVRE1SMVE/view?resourcekey=0-Cb1pzyepvNKNJfHSW_qKIw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKN3RjVzNVRE1SMVE&resourcekey=0-Cb1pzyepvNKNJfHSW_qKIw" width="240" alt="1971 - M605 - wbsps - promo - m605 da - 003.jpg"></a><br><sub>1971|4 · wbsps - promo - m605 da - 003</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKd1BFNnQ1VG92NEE/view?resourcekey=0-PNV6Q90dYw88UdMExQH61w" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKd1BFNnQ1VG92NEE&resourcekey=0-PNV6Q90dYw88UdMExQH61w" width="240" alt="1971 - M605 - wbsps - promo - m605 da - 004.jpg"></a><br><sub>1971|4 · wbsps - promo - m605 da - 004</sub></td></tr>
 </table>
 
-Shared privately on Google Drive (opens after sign-in): [1971|4 · wbsps - promo - m605 da - back_small](https://drive.google.com/file/d/0B0yR0b5T78SKYjQxS1M4dVAtZ28/view?resourcekey=0-Pn-rH8JgbJb2SpwZg5XsMw) · [1971|4 · wbsps - promo - m605 da - front_small](https://drive.google.com/file/d/0B0yR0b5T78SKalM1S2l1Y0tIQVk/view?resourcekey=0-5Mb5da5VHnGmXeMhwnD3pg)
+Shared privately on Google Drive (opens after sign-in): [1971|4 · wbsps - promo - m605 da - back_small](https://drive.google.com/file/d/0B0yR0b5T78SKYjQxS1M4dVAtZ28/view?resourcekey=0-Pn-rH8JgbJb2SpwZg5XsMw)
 
 ## Schematics
 
@@ -62,7 +62,7 @@ _Manuals and manual pages, price lists, RTO-144 connection sheets, brochures, ad
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKZTRYVWlmZnpua2M/view?resourcekey=0-YxmiFp5fahfZOKhUHzhHoQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKZTRYVWlmZnpua2M&resourcekey=0-YxmiFp5fahfZOKhUHzhHoQ" width="240" alt="19xx - M605 - DOC - US Sales Brochure pg 10.jpg"></a><br><sub>19xx - M605 - DOC - US Sales Brochure pg 10</sub></td></tr>
 </table>
 
-Shared privately on Google Drive (opens after sign-in): [1971|4 · wbsps - module - m605 da - back](https://drive.google.com/file/d/0B0yR0b5T78SKZ3ZIRlA5cGNPbjg/view?resourcekey=0-7rFRpq6FOC-GBskGzAgi9g) · [1971|4 · wbsps - module - m605 da - front](https://drive.google.com/file/d/0B0yR0b5T78SKUzZtSkUwcV9pUFk/view?resourcekey=0-iaYzJNzjDrjuX3cbAeHAJg)
+Shared privately on Google Drive (opens after sign-in): [1971|4 · wbsps - module - m605 da - back](https://drive.google.com/file/d/0B0yR0b5T78SKZ3ZIRlA5cGNPbjg/view?resourcekey=0-7rFRpq6FOC-GBskGzAgi9g)
 
 Not on Google Drive yet: `19xx - M605 - M605.jpg`, `wbsps - promo - m605 da - 002.jpg`
 
