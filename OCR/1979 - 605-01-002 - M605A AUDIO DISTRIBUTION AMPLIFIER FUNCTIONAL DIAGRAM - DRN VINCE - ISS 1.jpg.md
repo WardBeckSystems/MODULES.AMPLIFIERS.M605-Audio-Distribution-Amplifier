@@ -1,5 +1,5 @@
 # 1979 - 605-01-002 - M605A AUDIO DISTRIBUTION AMPLIFIER FUNCTIONAL DIAGRAM - DRN VINCE - ISS 1.jpg
-Wiki page: [M605](../../../../PAGES/M605.md)
+Wiki page: [M605](../)
 
 
 - **Year:** 1979 (title block date)

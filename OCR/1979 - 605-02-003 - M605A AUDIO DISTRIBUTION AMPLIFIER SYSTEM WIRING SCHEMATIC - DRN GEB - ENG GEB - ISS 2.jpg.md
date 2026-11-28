@@ -1,5 +1,5 @@
 # 1979 - 605-02-003 - M605A AUDIO DISTRIBUTION AMPLIFIER SYSTEM WIRING SCHEMATIC - DRN GEB - ENG GEB - ISS 2.jpg
-Wiki page: [M605](../../../../PAGES/M605.md)
+Wiki page: [M605](../)
 
 
 - **Year:** 1979 (title block date)

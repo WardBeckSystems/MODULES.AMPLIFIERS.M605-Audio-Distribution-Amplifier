@@ -1,5 +1,5 @@
 # wbsps - promo - m605 da - 002.jpg
-Wiki page: [M605](../../../../PAGES/M605.md)
+Wiki page: [M605](../)
 
 
 - **Year:** unknown (title block (read by eye))

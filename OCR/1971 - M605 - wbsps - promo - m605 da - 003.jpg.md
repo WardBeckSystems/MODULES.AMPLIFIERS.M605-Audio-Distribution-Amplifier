@@ -1,5 +1,5 @@
 # 1971 - M605 - wbsps - promo - m605 da - 003.jpg
-Wiki page: [M605](../../../../PAGES/M605.md)
+Wiki page: [M605](../)
 
 
 - **Year:** 1971 (module estimate (labelled))

@@ -1,5 +1,5 @@
 # 1985 - 605-02-006 - M605A AUDIO DISTRIBUTION AMPLIFIER UNBALANCED OPERATION INTERCONNECT D - DRN JP - ENG SCHUBERT - ISS 1.png
-Wiki page: [M605](../../../../PAGES/M605.md)
+Wiki page: [M605](../)
 
 
 - **Year:** 1985 (title block date)

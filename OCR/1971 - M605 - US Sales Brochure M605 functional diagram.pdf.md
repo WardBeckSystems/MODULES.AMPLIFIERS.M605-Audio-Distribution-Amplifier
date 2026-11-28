@@ -1,5 +1,5 @@
 # 1971 - M605 - US Sales Brochure M605 functional diagram.pdf
-Wiki page: [M605](../../../../PAGES/M605.md)
+Wiki page: [M605](../)
 
 
 - **Year:** 1971 (module estimate (labelled))

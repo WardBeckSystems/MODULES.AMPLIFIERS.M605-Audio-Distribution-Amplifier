@@ -1,5 +1,5 @@
 # 19xx - 605-06-006 - M605A AUDIO DISTRIBUTION AMPLIFIER COMPONENT LAYOUT - DRN P. Mahoney - ISS 1 (2).jpg
-Wiki page: [M605](../../../../PAGES/M605.md)
+Wiki page: [M605](../)
 
 
 - **Year:** unknown (title block (read by eye))
